@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #231303; 
+}
+
+.section {
+    padding: 100px;
+    text-align: center;
+}
+
+#home {
+    background-color: #4a5070;
+    color: white;
+}
+
+#about {
+    background-color: #6274a2; 
+    color: white;
+}
+
+#inspiration {
+    background-color: #7fafd5; 
+    color: black;
+}
+
+#contact {
+    background-color: #eedbb1; 
+    color: white;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
