@@ -1,7 +1,17 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'disalina', sans-serif;
     background-color: #231303; 
+}
+
+h1 {
+    font-family: 'disalina', sans-serif;
+    font-weight: 700; 
+}
+
+h2 {
+    font-family: 'pauza', sans-serif;
+    font-weight: 400; 
 }
 
 .section {
@@ -37,4 +47,9 @@ img {
 
 html {
     scroll-behavior: smooth;
+}
+
+em {
+    font-family: 'sedgwick', sans-serif;
+    font-weight: 400; 
 }
